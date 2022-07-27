@@ -13,3 +13,22 @@
     padding: 0px;
     margin: 0px;
 } */
+
+ousel-caption {
+	bottom: 100px;
+	
+}
+
+
+
+@media (max-width: 550px) {
+    .carousel-caption {
+        bottom: 50px;
+    }
+    .carousel-item img{
+        height: 100vh;
+        min-height: 300px;
+    }
+    
+}
+    
